@@ -58,6 +58,23 @@ I'm Isik, from the Isik's Tech YouTube channel and PCB store, also known as xbst
       <th width="12.5%"><a href="https://github.com/xbst/ToqueCAN">Repository</a></th>
       <th width="12.5%"><a href="https://store.isiks.tech/products/toquecan">Store</a></th>
     </tr>
+    <!-- Multicolor -->
+    <tr>
+      <td width="25%" rowspan="3"><img src="https://github.com/xbst/Birds-Nest/blob/master/Images/PCB.jpg?raw=true"></td>
+      <th colspan="2">Birds' Nest</th>
+      <td width="25%" rowspan="3"><img src="https://github.com/xbst/MOAR_CAN/blob/master/Images/PCB.jpg?raw=true"></td>
+      <th colspan="2">MOAR_CAN</th>
+    </tr>
+    <tr>
+      <td colspan="2">Birds' Nest is a USB hub PCB designed for toolchanger printers. It features 6 USB outs for up to 6 toolheads. It also features filament sensor, RGB and thermistor ports.</td>
+      <td colspan="2">MOAR_CAN is a ToqueCAN-compatible 8/9-port CAN bus hub, with better CAN topology.</td>
+      </tr>
+    <tr>
+      <th width="12.5%"><a href="https://github.com/xbst/Birds-Nest">Repository</a></th>
+      <th width="12.5%"><a href="https://store.isiks.tech/products/birds-nest">Store</a></th>
+      <th width="12.5%"><a href="https://github.com/xbst/MOAR_CAN">Repository</a></th>
+      <th width="12.5%"><a href="https://store.isiks.tech/products/moar_can">Store</a></th>
+    </tr>
     <!-- More -->
     <tr>
       <td width="25%" rowspan="3"><img src="https://store.isiks.tech/cdn/shop/files/B9EB39F0-4CC6-4754-B858-8E92174F19F9.jpg?v=1717468727&width=990"></td>
