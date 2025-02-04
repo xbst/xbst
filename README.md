@@ -1,7 +1,7 @@
 ## Hello there 👋
 <!-- General Kenobi -->
 I'm Isik, from the Isik's Tech YouTube channel and PCB store, also known as xbst_ on some platforms (like Discord). 
-- I create open source mods and PCBs for 3D printers and other related hobbies. I publish these projects on GitHub under a GPL v3 license.
+- I create open source mods and PCBs for 3D printers and other related hobbies. I publish these projects on GitHub.
 - I'm a 3D printing YouTuber, with many tutorials, reviews, mods and more available on [YouTube](https://youtube.com/@IsiksTech).
 - I've contributed to other projects as well, by writing guides, creating mods, contributing to manuals and more.
 ## Open Source Projects
