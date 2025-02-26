@@ -58,20 +58,37 @@ I'm Isik, from the Isik's Tech YouTube channel and PCB store, also known as xbst
       <th width="12.5%"><a href="https://github.com/xbst/ToqueCAN">Repository</a></th>
       <th width="12.5%"><a href="https://store.isiks.tech/products/toquecan">Store</a></th>
     </tr>
-    <!-- Multicolor -->
+    <!-- Toolchanger -->
     <tr>
       <td width="25%" rowspan="3"><img src="https://github.com/xbst/Birds-Nest/blob/master/Images/PCB.jpg?raw=true"></td>
-      <th colspan="2">Birds' Nest</th>
-      <td width="25%" rowspan="3"><img src="https://github.com/xbst/MOAR_CAN/blob/master/Images/PCB.jpg?raw=true"></td>
-      <th colspan="2">MOAR_CAN</th>
+      <th colspan="2">Birds' Nest (USB)</th>
+      <td width="25%" rowspan="3"><img src="https://github.com/xbst/Birds-Nest-CAN/blob/master/Images/PCB.jpg?raw=true"></td>
+      <th colspan="2">Birds' Nest CAN</th>
     </tr>
     <tr>
       <td colspan="2">Birds' Nest is a USB hub PCB designed for toolchanger printers. It features 6 USB outs for up to 6 toolheads. It also features filament sensor, RGB and thermistor ports.</td>
-      <td colspan="2">MOAR_CAN is a ToqueCAN-compatible 8/9-port CAN bus hub, with better CAN topology.</td>
+      <td colspan="2">Birds' Nest CAN is a USB CAN hub PCB designed for toolchanger printers. It features 6 CAN ports connected to a USB CAN adapter. It also features filament sensor, RGB and thermistor ports.</td>
       </tr>
     <tr>
       <th width="12.5%"><a href="https://github.com/xbst/Birds-Nest">Repository</a></th>
       <th width="12.5%"><a href="https://store.isiks.tech/products/birds-nest">Store</a></th>
+      <th width="12.5%"><a href="https://github.com/xbst/Birds-Nest-CAN">Repository</a></th>
+      <th width="12.5%"><a href="https://store.isiks.tech/products/birds-nest-can">Store</a></th>
+    </tr>
+    <!-- Multicolor -->
+    <tr>
+      <td width="25%" rowspan="3"><img src="https://github.com/xbst/AFC-Lite/blob/master/Images/PCB.jpg?raw=true"></td>
+      <th colspan="2">AFC-Lite</th>
+      <td width="25%" rowspan="3"><img src="https://github.com/xbst/MOAR_CAN/blob/master/Images/PCB.jpg?raw=true"></td>
+      <th colspan="2">MOAR_CAN</th>
+    </tr>
+    <tr>
+      <td colspan="2">AFC-Lite is the Box Turtle AFC controller PCB with stepper and brushed DC motor drivers, switch and LED ports. It supports 4 lanes.</td>
+      <td colspan="2">MOAR_CAN is a ToqueCAN-compatible 8/9-port CAN bus hub, with better CAN topology.</td>
+      </tr>
+    <tr>
+      <th width="12.5%"><a href="https://github.com/xbst/AFC-Lite/">Repository</a></th>
+      <th width="12.5%"><a href="https://store.isiks.tech/products/afc-lite">Store</a></th>
       <th width="12.5%"><a href="https://github.com/xbst/MOAR_CAN">Repository</a></th>
       <th width="12.5%"><a href="https://store.isiks.tech/products/moar_can">Store</a></th>
     </tr>
