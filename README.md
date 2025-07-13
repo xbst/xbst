@@ -109,15 +109,6 @@ I'm Isik, from the Isik's Tech YouTube channel and PCB store, also known as xbst
     </tr>
   </tbody>
 </table>
-Store links above go my my store. Every purchase helps me continue working on more open source PCB projects. Thanks.
-
-## Custom Services
-I'm also available for custom orders. Whether you need a custom PCB designed, one of my existing PCB designs modified for your use case or are interested in my other services like 3D printing, CAD work or more, feel free to contact me <a href="https://store.isiks.tech/pages/contact">here</a>.
 
 ## Support My Open Source Work
 [![Github Sponsors](https://img.shields.io/github/sponsors/xbst?style=for-the-badge&logo=github)](https://github.com/sponsors/xbst) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/isikstech) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xbstllc)
-
-## Social
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dNd5fB74J7) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/xbst_) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IsiksTech) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@IsiksTech) 
-<br> [![](https://visitcount.itsvg.in/api?id=xbst&icon=5&color=0)](https://visitcount.itsvg.in)
-<!-- Partly created with GPRM ( https://gprm.itsvg.in ) -->
